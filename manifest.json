@@ -1,0 +1,17 @@
+{
+    "name": "MiArgentina",
+    "short_name": "MiArg",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "description": "Creo tu documento",
+    "icons": [
+      {
+        "src": "img/miargentina.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "orientation": "portrait",
+    "fullscreen": "true"
+  }
