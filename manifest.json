@@ -1,7 +1,7 @@
 {
     "name": "MiArgentina",
     "short_name": "MiArg",
-    "start_url": "/",
+    "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "description": "Creo tu documento",
