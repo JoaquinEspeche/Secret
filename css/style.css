@@ -54,6 +54,13 @@ h5{
   cursor: pointer; /* Agregar cursor apuntador */
 }
 
+@media (max-width: 320px) {
+  .card {
+    width: 300px;
+    height: 200px;
+  }
+}
+
 .card:hover {
   transform: rotateY(180deg);
 }
@@ -104,7 +111,7 @@ h5{
     left: 119px;
   }
   .lastname-entry {
-    top: 52px;
+    top: 50px;
     left: 119px;
     text-align: right;
   }
@@ -125,6 +132,8 @@ h5{
     width: 100%;
     font-size: 11px !important;
     color: rgb(0, 0, 0) !important;
+    font-weight: bold;
+
   }
 
   .img-entry {
@@ -137,18 +146,18 @@ h5{
   }
 
   .nameBack-entry{
-    top: 153px;
-    left: 25px;
-    font-size: 12px;
-    color: rgb(0, 0, 0);
+    top: 154px;
+    left: 26px;
+    font-size: 11px;
+    color: rgb(8, 8, 8);
     font-weight: bold;
   }
 
 .apellidoBack-entry{
-  top: 153px;
-  left: 79px;
-  font-size: 12px;
-  color: rgb(0, 0, 0);
+  top: 154px;
+  left: 84px;
+  font-size: 11px;
+  color: rgb(8, 8, 8);
   font-weight: bold;
 
 }

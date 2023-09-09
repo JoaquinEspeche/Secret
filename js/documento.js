@@ -53,9 +53,9 @@ function mostrarDatosEnHTML(datos) {
       <div class="entry img-entry"><img src="${datos.fotoCarnet}" alt="" class="img-entry"></div>
     </div>
     <div class="card-back">
-      <div class="entry nameBack-entry">${datos.nombre}<<
+      <div class="entry nameBack-entry">${datos.nombre}<
       </div>
-      <div class="entry apellidoBack-entry">${datos.apellido}<<</div>
+      <div class="entry apellidoBack-entry">${datos.apellido}<</div>
     </div>
   </div>
 </div>
