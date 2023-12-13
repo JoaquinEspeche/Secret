@@ -133,7 +133,7 @@ h5{
     font-size: 11px !important;
     color: rgb(0, 0, 0) !important;
     font-weight: bold;
-
+    
   }
 
   .img-entry {
@@ -146,17 +146,17 @@ h5{
   }
 
   .nameBack-entry{
-    top: 154px;
-    left: 26px;
-    font-size: 11px;
+    top: 155.5px;
+    left: 25px;
+    font-size: 9.7px;
     color: rgb(8, 8, 8);
     font-weight: bold;
   }
 
 .apellidoBack-entry{
-  top: 154px;
-  left: 84px;
-  font-size: 11px;
+  top: 155.5px;
+  left: 76px;
+  font-size: 9.7px;
   color: rgb(8, 8, 8);
   font-weight: bold;
 
