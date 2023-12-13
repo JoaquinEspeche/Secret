@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const sexo = formulario.sexo.value;
       const fecha = formulario.fecha.value;
       const numeroDNI = formulario.numeroDNI.value;
-      const fotoCarnet = formulario.fotoCarnet.value; // Tenga en cuenta que no podrá obtener la imagen como cadena, necesitará un enfoque diferente para manejar imágenes
+      const fotoCarnet = formulario.fotoCarnet.value; 
   
       const datos = {
         nombre,
